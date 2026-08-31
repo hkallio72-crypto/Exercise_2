@@ -1,0 +1,46 @@
+
+html {
+    min-height:100%;
+}
+
+body {
+    height:100%;
+}
+body{
+background: linear-gradient(180deg,rgba(30, 166, 250, 1) 0%, rgba(74, 224, 204, 1) 70%, rgba(252, 213, 106, 1) 100%);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color:rgb(10, 112, 135);
+}
+.achievements{
+    text-indent: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(10, 112, 135);
+    text-align: center;
+}
+li{
+    font-size:large;
+}
+.image{
+      display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 400px;
+}
+p{
+    font-size: x-large;
+    text-align: center;
+}
+h2{
+font-family: "Original Surfer", sans-serif;
+font-size:x-large;
+}
+.original-surfer-regular {
+  font-family: "Original Surfer", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+color:rgb(10, 112, 135);
+text-align: center;
+font-family: "Original Surfer", sans-serif;
+}
